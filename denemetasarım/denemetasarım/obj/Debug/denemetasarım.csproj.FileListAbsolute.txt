@@ -1,0 +1,159 @@
+C:\Users\Monster\Desktop\visualst22#\denemetasarım\denemetasarım\bin\Debug\denemetasarım.exe.config
+C:\Users\Monster\Desktop\visualst22#\denemetasarım\denemetasarım\bin\Debug\denemetasarım.exe
+C:\Users\Monster\Desktop\visualst22#\denemetasarım\denemetasarım\bin\Debug\denemetasarım.pdb
+C:\Users\Monster\Desktop\visualst22#\denemetasarım\denemetasarım\bin\Debug\Bunifu.Dataviz.WinForms.xml
+C:\Users\Monster\Desktop\visualst22#\denemetasarım\denemetasarım\bin\Debug\Bunifu.UI.WinForms.xml
+C:\Users\Monster\Desktop\visualst22#\denemetasarım\denemetasarım\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\Monster\Desktop\visualst22#\denemetasarım\denemetasarım\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\Monster\Desktop\visualst22#\denemetasarım\denemetasarım\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+C:\Users\Monster\Desktop\visualst22#\denemetasarım\denemetasarım\bin\Debug\Microsoft.Win32.SystemEvents.xml
+C:\Users\Monster\Desktop\visualst22#\denemetasarım\denemetasarım\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Monster\Desktop\visualst22#\denemetasarım\denemetasarım\bin\Debug\RestSharp.xml
+C:\Users\Monster\Desktop\visualst22#\denemetasarım\denemetasarım\bin\Debug\System.Buffers.xml
+C:\Users\Monster\Desktop\visualst22#\denemetasarım\denemetasarım\bin\Debug\System.CodeDom.xml
+C:\Users\Monster\Desktop\visualst22#\denemetasarım\denemetasarım\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Monster\Desktop\visualst22#\denemetasarım\denemetasarım\bin\Debug\System.Data.Odbc.xml
+C:\Users\Monster\Desktop\visualst22#\denemetasarım\denemetasarım\bin\Debug\System.Data.OleDb.xml
+C:\Users\Monster\Desktop\visualst22#\denemetasarım\denemetasarım\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Monster\Desktop\visualst22#\denemetasarım\denemetasarım\bin\Debug\System.Diagnostics.EventLog.xml
+C:\Users\Monster\Desktop\visualst22#\denemetasarım\denemetasarım\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+C:\Users\Monster\Desktop\visualst22#\denemetasarım\denemetasarım\bin\Debug\System.Drawing.Common.xml
+C:\Users\Monster\Desktop\visualst22#\denemetasarım\denemetasarım\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\Monster\Desktop\visualst22#\denemetasarım\denemetasarım\bin\Debug\System.IO.Packaging.xml
+C:\Users\Monster\Desktop\visualst22#\denemetasarım\denemetasarım\bin\Debug\System.IO.Ports.xml
+C:\Users\Monster\Desktop\visualst22#\denemetasarım\denemetasarım\bin\Debug\System.Memory.xml
+C:\Users\Monster\Desktop\visualst22#\denemetasarım\denemetasarım\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Monster\Desktop\visualst22#\denemetasarım\denemetasarım\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Monster\Desktop\visualst22#\denemetasarım\denemetasarım\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Monster\Desktop\visualst22#\denemetasarım\denemetasarım\bin\Debug\System.Security.Cryptography.Cng.xml
+C:\Users\Monster\Desktop\visualst22#\denemetasarım\denemetasarım\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\Monster\Desktop\visualst22#\denemetasarım\denemetasarım\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\Monster\Desktop\visualst22#\denemetasarım\denemetasarım\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\Monster\Desktop\visualst22#\denemetasarım\denemetasarım\bin\Debug\System.Security.Permissions.xml
+C:\Users\Monster\Desktop\visualst22#\denemetasarım\denemetasarım\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Monster\Desktop\visualst22#\denemetasarım\denemetasarım\bin\Debug\System.ServiceModel.Syndication.xml
+C:\Users\Monster\Desktop\visualst22#\denemetasarım\denemetasarım\bin\Debug\System.ServiceProcess.ServiceController.xml
+C:\Users\Monster\Desktop\visualst22#\denemetasarım\denemetasarım\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\Monster\Desktop\visualst22#\denemetasarım\denemetasarım\bin\Debug\System.Threading.AccessControl.xml
+C:\Users\Monster\Desktop\visualst22#\denemetasarım\denemetasarım\obj\Debug\denemetasarım.csproj.AssemblyReference.cache
+C:\Users\Monster\Desktop\visualst22#\denemetasarım\denemetasarım\obj\Debug\denemetasarım.csproj.SuggestedBindingRedirects.cache
+C:\Users\Monster\Desktop\visualst22#\denemetasarım\denemetasarım\obj\Debug\denemetasarım.Properties.Resources.resources
+C:\Users\Monster\Desktop\visualst22#\denemetasarım\denemetasarım\obj\Debug\denemetasarım.csproj.GenerateResource.cache
+C:\Users\Monster\Desktop\visualst22#\denemetasarım\denemetasarım\obj\Debug\denemetasarım.exe.licenses
+C:\Users\Monster\Desktop\visualst22#\denemetasarım\denemetasarım\obj\Debug\denemetasarım.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\visualst22#\denemetasarım\denemetasarım\obj\Debug\denemetasarım.csproj.Fody.CopyLocal.cache
+C:\Users\Monster\Desktop\visualst22#\denemetasarım\denemetasarım\obj\Debug\denemetasarım.csproj.CopyComplete
+C:\Users\Monster\Desktop\visualst22#\denemetasarım\denemetasarım\obj\Debug\denemetasarım.exe
+C:\Users\Monster\Desktop\visualst22#\denemetasarım\denemetasarım\obj\Debug\denemetasarım.pdb
+C:\Users\Monster\Desktop\visualst22#\denemetasarım\denemetasarım\obj\Debug\denemetasarım.giris.resources
+C:\Users\Monster\Desktop\visualst22#\denemetasarım\denemetasarım\obj\Debug\denemetasarım.kayit.resources
+C:\Users\Monster\Desktop\visualst22#\denemetasarım\denemetasarım\obj\Debug\denemetasarım.Anasayfa.resources
+C:\Users\Monster\Desktop\visualst22#\denemetasarım\denemetasarım\obj\Debug\denemetasarım.SifremiUnuttum.resources
+C:\Users\Monster\Desktop\visualst22#\denemetasarım\denemetasarım\obj\Debug\denemetasarım.SplashScreen.resources
+C:\Users\Monster\Desktop\visualst22#\denemetasarım\denemetasarım\bin\Debug\itextsharp.xml
+C:\Users\Monster\Desktop\denemetasarım\denemetasarım\bin\Debug\denemetasarım.exe.config
+C:\Users\Monster\Desktop\denemetasarım\denemetasarım\bin\Debug\denemetasarım.exe
+C:\Users\Monster\Desktop\denemetasarım\denemetasarım\bin\Debug\denemetasarım.pdb
+C:\Users\Monster\Desktop\denemetasarım\denemetasarım\bin\Debug\Bunifu.Dataviz.WinForms.xml
+C:\Users\Monster\Desktop\denemetasarım\denemetasarım\bin\Debug\Bunifu.UI.WinForms.xml
+C:\Users\Monster\Desktop\denemetasarım\denemetasarım\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\Monster\Desktop\denemetasarım\denemetasarım\bin\Debug\itextsharp.xml
+C:\Users\Monster\Desktop\denemetasarım\denemetasarım\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\Monster\Desktop\denemetasarım\denemetasarım\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+C:\Users\Monster\Desktop\denemetasarım\denemetasarım\bin\Debug\Microsoft.Win32.SystemEvents.xml
+C:\Users\Monster\Desktop\denemetasarım\denemetasarım\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Monster\Desktop\denemetasarım\denemetasarım\bin\Debug\RestSharp.xml
+C:\Users\Monster\Desktop\denemetasarım\denemetasarım\bin\Debug\System.Buffers.xml
+C:\Users\Monster\Desktop\denemetasarım\denemetasarım\bin\Debug\System.CodeDom.xml
+C:\Users\Monster\Desktop\denemetasarım\denemetasarım\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Monster\Desktop\denemetasarım\denemetasarım\bin\Debug\System.Data.Odbc.xml
+C:\Users\Monster\Desktop\denemetasarım\denemetasarım\bin\Debug\System.Data.OleDb.xml
+C:\Users\Monster\Desktop\denemetasarım\denemetasarım\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Monster\Desktop\denemetasarım\denemetasarım\bin\Debug\System.Diagnostics.EventLog.xml
+C:\Users\Monster\Desktop\denemetasarım\denemetasarım\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+C:\Users\Monster\Desktop\denemetasarım\denemetasarım\bin\Debug\System.Drawing.Common.xml
+C:\Users\Monster\Desktop\denemetasarım\denemetasarım\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\Monster\Desktop\denemetasarım\denemetasarım\bin\Debug\System.IO.Packaging.xml
+C:\Users\Monster\Desktop\denemetasarım\denemetasarım\bin\Debug\System.IO.Ports.xml
+C:\Users\Monster\Desktop\denemetasarım\denemetasarım\bin\Debug\System.Memory.xml
+C:\Users\Monster\Desktop\denemetasarım\denemetasarım\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Monster\Desktop\denemetasarım\denemetasarım\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Monster\Desktop\denemetasarım\denemetasarım\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Monster\Desktop\denemetasarım\denemetasarım\bin\Debug\System.Security.Cryptography.Cng.xml
+C:\Users\Monster\Desktop\denemetasarım\denemetasarım\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\Monster\Desktop\denemetasarım\denemetasarım\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\Monster\Desktop\denemetasarım\denemetasarım\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\Monster\Desktop\denemetasarım\denemetasarım\bin\Debug\System.Security.Permissions.xml
+C:\Users\Monster\Desktop\denemetasarım\denemetasarım\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Monster\Desktop\denemetasarım\denemetasarım\bin\Debug\System.ServiceModel.Syndication.xml
+C:\Users\Monster\Desktop\denemetasarım\denemetasarım\bin\Debug\System.ServiceProcess.ServiceController.xml
+C:\Users\Monster\Desktop\denemetasarım\denemetasarım\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\Monster\Desktop\denemetasarım\denemetasarım\bin\Debug\System.Threading.AccessControl.xml
+C:\Users\Monster\Desktop\denemetasarım\denemetasarım\obj\Debug\denemetasarım.csproj.AssemblyReference.cache
+C:\Users\Monster\Desktop\denemetasarım\denemetasarım\obj\Debug\denemetasarım.csproj.SuggestedBindingRedirects.cache
+C:\Users\Monster\Desktop\denemetasarım\denemetasarım\obj\Debug\denemetasarım.Anasayfa.resources
+C:\Users\Monster\Desktop\denemetasarım\denemetasarım\obj\Debug\denemetasarım.giris.resources
+C:\Users\Monster\Desktop\denemetasarım\denemetasarım\obj\Debug\denemetasarım.kayit.resources
+C:\Users\Monster\Desktop\denemetasarım\denemetasarım\obj\Debug\denemetasarım.Properties.Resources.resources
+C:\Users\Monster\Desktop\denemetasarım\denemetasarım\obj\Debug\denemetasarım.SifremiUnuttum.resources
+C:\Users\Monster\Desktop\denemetasarım\denemetasarım\obj\Debug\denemetasarım.SplashScreen.resources
+C:\Users\Monster\Desktop\denemetasarım\denemetasarım\obj\Debug\denemetasarım.csproj.GenerateResource.cache
+C:\Users\Monster\Desktop\denemetasarım\denemetasarım\obj\Debug\denemetasarım.exe.licenses
+C:\Users\Monster\Desktop\denemetasarım\denemetasarım\obj\Debug\denemetasarım.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\denemetasarım\denemetasarım\obj\Debug\denemetasarım.csproj.Fody.CopyLocal.cache
+C:\Users\Monster\Desktop\denemetasarım\denemetasarım\obj\Debug\denemetasarım.csproj.CopyComplete
+C:\Users\Monster\Desktop\denemetasarım\denemetasarım\obj\Debug\denemetasarım.exe
+C:\Users\Monster\Desktop\denemetasarım\denemetasarım\obj\Debug\denemetasarım.pdb
+C:\Users\Monster\Desktop\Görsel programlama proje\denemetasarım\denemetasarım\bin\Debug\denemetasarım.exe.config
+C:\Users\Monster\Desktop\Görsel programlama proje\denemetasarım\denemetasarım\bin\Debug\denemetasarım.exe
+C:\Users\Monster\Desktop\Görsel programlama proje\denemetasarım\denemetasarım\bin\Debug\denemetasarım.pdb
+C:\Users\Monster\Desktop\Görsel programlama proje\denemetasarım\denemetasarım\bin\Debug\Bunifu.Dataviz.WinForms.xml
+C:\Users\Monster\Desktop\Görsel programlama proje\denemetasarım\denemetasarım\bin\Debug\Bunifu.UI.WinForms.xml
+C:\Users\Monster\Desktop\Görsel programlama proje\denemetasarım\denemetasarım\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\Monster\Desktop\Görsel programlama proje\denemetasarım\denemetasarım\bin\Debug\itextsharp.xml
+C:\Users\Monster\Desktop\Görsel programlama proje\denemetasarım\denemetasarım\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\Monster\Desktop\Görsel programlama proje\denemetasarım\denemetasarım\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+C:\Users\Monster\Desktop\Görsel programlama proje\denemetasarım\denemetasarım\bin\Debug\Microsoft.Win32.SystemEvents.xml
+C:\Users\Monster\Desktop\Görsel programlama proje\denemetasarım\denemetasarım\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Monster\Desktop\Görsel programlama proje\denemetasarım\denemetasarım\bin\Debug\RestSharp.xml
+C:\Users\Monster\Desktop\Görsel programlama proje\denemetasarım\denemetasarım\bin\Debug\System.Buffers.xml
+C:\Users\Monster\Desktop\Görsel programlama proje\denemetasarım\denemetasarım\bin\Debug\System.CodeDom.xml
+C:\Users\Monster\Desktop\Görsel programlama proje\denemetasarım\denemetasarım\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Monster\Desktop\Görsel programlama proje\denemetasarım\denemetasarım\bin\Debug\System.Data.Odbc.xml
+C:\Users\Monster\Desktop\Görsel programlama proje\denemetasarım\denemetasarım\bin\Debug\System.Data.OleDb.xml
+C:\Users\Monster\Desktop\Görsel programlama proje\denemetasarım\denemetasarım\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Monster\Desktop\Görsel programlama proje\denemetasarım\denemetasarım\bin\Debug\System.Diagnostics.EventLog.xml
+C:\Users\Monster\Desktop\Görsel programlama proje\denemetasarım\denemetasarım\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+C:\Users\Monster\Desktop\Görsel programlama proje\denemetasarım\denemetasarım\bin\Debug\System.Drawing.Common.xml
+C:\Users\Monster\Desktop\Görsel programlama proje\denemetasarım\denemetasarım\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\Monster\Desktop\Görsel programlama proje\denemetasarım\denemetasarım\bin\Debug\System.IO.Packaging.xml
+C:\Users\Monster\Desktop\Görsel programlama proje\denemetasarım\denemetasarım\bin\Debug\System.IO.Ports.xml
+C:\Users\Monster\Desktop\Görsel programlama proje\denemetasarım\denemetasarım\bin\Debug\System.Memory.xml
+C:\Users\Monster\Desktop\Görsel programlama proje\denemetasarım\denemetasarım\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Monster\Desktop\Görsel programlama proje\denemetasarım\denemetasarım\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Monster\Desktop\Görsel programlama proje\denemetasarım\denemetasarım\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Monster\Desktop\Görsel programlama proje\denemetasarım\denemetasarım\bin\Debug\System.Security.Cryptography.Cng.xml
+C:\Users\Monster\Desktop\Görsel programlama proje\denemetasarım\denemetasarım\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\Monster\Desktop\Görsel programlama proje\denemetasarım\denemetasarım\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\Monster\Desktop\Görsel programlama proje\denemetasarım\denemetasarım\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\Monster\Desktop\Görsel programlama proje\denemetasarım\denemetasarım\bin\Debug\System.Security.Permissions.xml
+C:\Users\Monster\Desktop\Görsel programlama proje\denemetasarım\denemetasarım\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Monster\Desktop\Görsel programlama proje\denemetasarım\denemetasarım\bin\Debug\System.ServiceModel.Syndication.xml
+C:\Users\Monster\Desktop\Görsel programlama proje\denemetasarım\denemetasarım\bin\Debug\System.ServiceProcess.ServiceController.xml
+C:\Users\Monster\Desktop\Görsel programlama proje\denemetasarım\denemetasarım\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\Monster\Desktop\Görsel programlama proje\denemetasarım\denemetasarım\bin\Debug\System.Threading.AccessControl.xml
+C:\Users\Monster\Desktop\Görsel programlama proje\denemetasarım\denemetasarım\obj\Debug\denemetasarım.csproj.AssemblyReference.cache
+C:\Users\Monster\Desktop\Görsel programlama proje\denemetasarım\denemetasarım\obj\Debug\denemetasarım.csproj.SuggestedBindingRedirects.cache
+C:\Users\Monster\Desktop\Görsel programlama proje\denemetasarım\denemetasarım\obj\Debug\denemetasarım.Anasayfa.resources
+C:\Users\Monster\Desktop\Görsel programlama proje\denemetasarım\denemetasarım\obj\Debug\denemetasarım.giris.resources
+C:\Users\Monster\Desktop\Görsel programlama proje\denemetasarım\denemetasarım\obj\Debug\denemetasarım.kayit.resources
+C:\Users\Monster\Desktop\Görsel programlama proje\denemetasarım\denemetasarım\obj\Debug\denemetasarım.Properties.Resources.resources
+C:\Users\Monster\Desktop\Görsel programlama proje\denemetasarım\denemetasarım\obj\Debug\denemetasarım.SifremiUnuttum.resources
+C:\Users\Monster\Desktop\Görsel programlama proje\denemetasarım\denemetasarım\obj\Debug\denemetasarım.SplashScreen.resources
+C:\Users\Monster\Desktop\Görsel programlama proje\denemetasarım\denemetasarım\obj\Debug\denemetasarım.csproj.GenerateResource.cache
+C:\Users\Monster\Desktop\Görsel programlama proje\denemetasarım\denemetasarım\obj\Debug\denemetasarım.exe.licenses
+C:\Users\Monster\Desktop\Görsel programlama proje\denemetasarım\denemetasarım\obj\Debug\denemetasarım.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\Görsel programlama proje\denemetasarım\denemetasarım\obj\Debug\denemetasarım.csproj.Fody.CopyLocal.cache
+C:\Users\Monster\Desktop\Görsel programlama proje\denemetasarım\denemetasarım\obj\Debug\denemetasarım.csproj.CopyComplete
+C:\Users\Monster\Desktop\Görsel programlama proje\denemetasarım\denemetasarım\obj\Debug\denemetasarım.exe
+C:\Users\Monster\Desktop\Görsel programlama proje\denemetasarım\denemetasarım\obj\Debug\denemetasarım.pdb
